@@ -1,0 +1,17 @@
+[project]
+name = "neo"
+version = "0.1.0"
+description = ""
+dependencies = [
+    "aiohttp",
+    "pydantic",
+    "aiofiles",
+    "rich",
+    "python-dotenv",
+    "openai",
+    "prompt-toolkit",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta" 

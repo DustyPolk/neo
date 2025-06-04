@@ -1,0 +1,7 @@
+aiohttp
+pydantic
+aiofiles
+rich
+python-dotenv
+openai
+prompt-toolkit 
