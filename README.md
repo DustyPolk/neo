@@ -74,10 +74,10 @@ This project uses a `.env` file for environment variables. If the project requir
 
 ## Contributing
 
-[Information about how to contribute to the project, if applicable]
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
 
 ---
 
 ## License
 
-[Specify project license, if applicable] 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
