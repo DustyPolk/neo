@@ -1,13 +1,17 @@
 ![image](https://github.com/user-attachments/assets/16389c5c-c1bd-4051-926b-458a997d0bc4)
 
-## Meet Neo. An AI coding agent based on the Matrix.
+## 🟢 Meet Neo. An AI coding agent based on the Matrix. 🟢
 
-## Prerequisites
+---
+
+## Prerequisites ⚙️
 
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv) (Python package installer and virtual environment manager)
 
-## Setup and Running the Project
+---
+
+## Setup and Running the Project 🚀
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
@@ -54,20 +58,26 @@
     uv run neo.py
     ```
 
-## Environment Variables
+---
+
+## Environment Variables 🔑
 
 This project uses a `.env` file for environment variables. If the project requires specific API keys or configurations, create a `.env` file in the root of the project and add them there. For example:
 
-```
-OPENAI_API_KEY="your_api_key_here"
-# Add other environment variables as needed
-```
+> ```text
+> DEEPSEEK_API_KEY="your_api_key_here"
+> # Add other environment variables as needed
+> ```
 **Note:** The `.env` file is included in `.gitignore` and should not be committed to version control.
 
-## Contributing
+---
+
+## Contributing 🤝
 
 [Information about how to contribute to the project, if applicable]
 
-## License
+---
+
+## License 📜
 
 [Specify project license, if applicable] 
