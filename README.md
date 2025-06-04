@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/16389c5c-c1bd-4051-926b-458a997d0bc4)
 
-## Meet Neo. An AI coding agent based on the Matrix trilogy. 
+## Meet Neo. An AI coding agent based on the Matrix.
 
 ## Prerequisites
 
