@@ -61,7 +61,7 @@
 This project uses a `.env` file for environment variables. If the project requires specific API keys or configurations, create a `.env` file in the root of the project and add them there. For example:
 
 ```
-DEEPSEEK_API_KEY="your_api_key_here"
+OPENAI_API_KEY="your_api_key_here"
 # Add other environment variables as needed
 ```
 **Note:** The `.env` file is included in `.gitignore` and should not be committed to version control.
