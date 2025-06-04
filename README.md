@@ -4,14 +4,14 @@
 
 ---
 
-## Prerequisites ⚙️
+## Prerequisites
 
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv) (Python package installer and virtual environment manager)
 
 ---
 
-## Setup and Running the Project 🚀
+## Setup and Running the Project
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
@@ -60,7 +60,7 @@
 
 ---
 
-## Environment Variables 🔑
+## Environment Variables
 
 This project uses a `.env` file for environment variables. If the project requires specific API keys or configurations, create a `.env` file in the root of the project and add them there. For example:
 
@@ -72,12 +72,12 @@ This project uses a `.env` file for environment variables. If the project requir
 
 ---
 
-## Contributing 🤝
+## Contributing
 
 [Information about how to contribute to the project, if applicable]
 
 ---
 
-## License 📜
+## License
 
 [Specify project license, if applicable] 
